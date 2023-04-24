@@ -1,3 +1,5 @@
+![Screenshot 2023-04-24 155406](https://user-images.githubusercontent.com/118737409/234050661-4c7c9e5f-dee8-4312-b660-c245b6b6eace.png)
+
 <br/><br/>
 <img src="https://badgen.net/badge/platform/mt5/orange"/>
 <img src="https://badgen.net/badge/category/indicator/blue"/>
@@ -10,7 +12,7 @@ This repository contains the source code for the **Heiken Ashi** indicator for M
 
 ## Description
 
-The **Heiken Ashi** indicator is a technical analysis tool designed to help traders identify trends and potential entry/exit points in financial markets.
+The **Heiken Ashi** indicator is a technical analysis tool designed to help traders identify trends in financial markets and remove some trend noises. It's a kind of candle stick formation.
 
 ## How to Use
 
