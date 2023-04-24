@@ -33,7 +33,7 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 
 ## Credits
 
-The **Heiken Ashi** indicator was developed by Kai Algo.
+The **Heiken Ashi** indicator was developed by **Kai Algo**.
 
 ## Support
 
